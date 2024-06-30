@@ -27,7 +27,7 @@ I'm new to programming. I wrote a website in HTML CCS. I have a 1C diploma, acco
 и ещё ещё несколько сайтов...
 ---
 ## Образование
- и самообучение*
+ самообучение*
 
 ---
 
